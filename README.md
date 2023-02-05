@@ -1,1 +1,1 @@
-# automatic-send-whatsapp-message-u
+# automatic-send-whatsapp-message
