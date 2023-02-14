@@ -4,9 +4,15 @@ This Python script uses the pywhatkit library to automate the process of sending
 
 # prerequisites:
 
-Python 3.x installed
-pywhatkit library installed (pip install pywhatkit)
-A valid phone number and a message to send
+Python 3.x installed                         
+pywhatkit library installed (pip install pywhatkit)                              
+A valid phone number and a message to send  
+
+# Installation
+
+To install the required packages, run the following command in your terminal:           
+
+pip install pywhatkit
 
 # Instructions
 
