@@ -11,8 +11,11 @@ A valid phone number and a message to send
 # Instructions
 
 Clone this repository or download the script send_whatsapp_message.py to your computer.
+
 Install the pywhatkit library by running the command pip install pywhatkit in your terminal.
+
 Open send_whatsapp_message.py in a text editor and modify the following variables:
+
 phone: the phone number of the contact to whom you want to send the message (in international format without '+')
 message: the message you want to send
 hour: the hour at which you want to send the message (24-hour format)
